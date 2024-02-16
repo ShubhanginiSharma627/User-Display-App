@@ -1,6 +1,4 @@
-Certainly! Here's a basic example of a README file for your React app:
 
-```markdown
 # User Display App
 
 A React app that displays a list of users from a public API and allows users to search for specific names.
